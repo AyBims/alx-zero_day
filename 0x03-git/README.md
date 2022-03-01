@@ -1,2 +1,2 @@
-readme for git task
-Contains info about directory
+readme file for git task
+Contains info about the directory
